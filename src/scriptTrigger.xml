@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+		<config>
+			<approvalchooser>
+				<object>AuthorApply__c</object>
+				<operate>agree</operate>
+				<position>before</position>
+				<order>1</order>
+				<class>other.hht.approve.AproveChoseManagerIdImpl</class>
+			</approvalchooser>
+			<approvalchooser>
+				<object>AuthorApply__c</object>
+				<operate>agree</operate>
+				<position>before</position>
+				<order>1</order>
+				<class>other.hht.approve.AproveChoseSYBSWImpl</class>
+			</approvalchooser>
+			<approvalchooser>
+				<object>AuthorApply__c</object>
+				<operate>agree</operate>
+				<position>before</position>
+				<order>1</order>
+				<class>other.hht.approve.AproveChoseDQJLImpl</class>
+			</approvalchooser>
+			<approvalchooser>
+				<object>account</object>
+				<operate>agree</operate>
+				<position>before</position>
+				<order>1</order>
+				<class>other.hht.approve.AproveChoseCutomerImpl</class>
+			</approvalchooser>
+		</config>
+</configs>
