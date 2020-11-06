@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+		<config>
+			<api>
+				<class>other.hht.cache.CacheProperty</class>
+				<url>/setCacheProperty</url>
+			</api>
+			<api>
+				<class>other.hht.cache.GetProperty</class>
+				<url>/getCacheProperty</url>
+			</api>
+		</config>
+</configs>
