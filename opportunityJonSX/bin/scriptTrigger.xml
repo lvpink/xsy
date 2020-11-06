@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <config>
+        <!--商机赢率到达50%及以上时，需要检查是否维护商机明细，没有维护不允许升迁-->
+        <trigger>
+            <object>opportunity</object>
+            <operate>update</operate>
+            <position>before</position>
+            <order>1</order>
+            <class>other.honghe.com.OpportunityUpdateBeforeTrigger</class>
+        </trigger>
+    </config>
+</configs>
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <config>
+        <schedule>
+            <class>other.hht.product.ProductScheduleJob</class>
+        </schedule>
+    </config>
+</configs>

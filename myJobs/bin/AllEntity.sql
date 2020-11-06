@@ -1,0 +1,140 @@
+业务对象名称		API 名称
+价格表明细			priceBookEntry
+价格表			priceBook
+目标模型			goalModel
+目标				goalPro
+团队成员			teamMember
+资产				asset
+配件				parts
+商机联系人			opportunityRegisterContact
+商机报备			opportunityRegister
+延期申请			delayRecoveryApply__a
+交付记录明细		deliveryRecordDetail
+交付记录			deliveryRecord
+收款单明细			paymentItem
+退款明细			refundItem
+应收单			invoice
+应收单明细			invoiceItem
+收款单			paymentApplication
+应收变更单			invoiceAdjustment
+应收变更明细		invoiceItemAdjustment
+退款				refund
+区域模型			territoryModel
+区域				territory
+发票明细			receiptItem
+发票				receipt
+应收发票			invoiceReceipt
+应收收款			invoicePayment
+收款计划			paymentApplicationPlan
+应收收款退款		invoicePaymentRefund
+小程序映射			miniProgramMap
+报价单			quote
+报价单明细			quoteLine
+CRM和SAP编码对应关系表		codeMatch__c
+产品审批价格表-废弃			proAproPriTab__c
+SAP产品价格临时表			sapProPriTemTab__c
+保有产品					BYCP__c
+SAP客户同步记录表			recondSyn__c
+预算情况YSQK__c
+银行编码表bankList__c
+服务任务serviceTask
+服务阶段serviceStage
+时间表timeSheet
+服务项目serviceProject
+维保计划明细preventiveMaintenanceDetail
+维保计划preventiveMaintenance
+派工物料明细fieldJobDetail
+派工池配置fieldJobSea
+派工单fieldJob
+知识条目serviceKnowledge
+故障代码errorCode
+维修项记录repairTask
+维修项repairJob
+退货授权明细returnMaterialAuthorizationDetail
+维修项模板repairTemplate
+退货授权returnMaterialAuthorization
+返修单depotRepair
+维修模板条目repairTemplateItem
+仓库warehouse
+出库单明细stockOutDetail
+入库单stockIn
+领料单明细materialRequisitionDetail
+移库单stockTransfer
+仓库明细warehouseDetail
+退料单materialReturn
+退料明细materialReturnDetail
+入库单明细stockInDetail
+出库单stockOut
+领料单materialRequisition
+移库单明细stockTransferDetail
+个人备件库personalWarehouse
+个人库出入库记录personalOutOfStorage
+个人备件库明细personalWarehouseDetail
+个人库物料转移personalMaterialTransfer
+采购订单purchaseOrder
+采购订单明细purchaseOrderDetail
+资源分配工时resourceHour
+发运单dispatchNote
+质保qualityAssurance
+评分模型skillModel
+质保产品qualityAssuranceProduct
+技能fieldJobSkill
+资源resourceManagement
+发运单明细dispatchNoteDetail
+任务资源分配taskResource
+必备技能skillRequired
+质保档案qualityAssuranceFile
+评分项skillScore
+员工技能employeeSkill
+收货单receiveNote
+客户评价evaluation
+收货单明细receiveNoteDetail
+结算单明细chargeDetail
+结算单charge
+检查项fieldJobCheckItem
+选项值optionValue
+表格值tableValue
+表单模板formDoc
+表单元素formColumn
+元素值columnValue
+表单formInstance
+装箱单packingList
+项目基线projectBaseLine
+装箱单明细packingListDetail
+账户配置customerAccountSetting
+账户customerAccount
+账户明细customerAccountDetail
+电子券发行couponIssue
+电子券coupon
+产品功能productFeature
+产品选项productOption
+阶梯价格表priceSchedule
+阶梯价格表明细priceTier
+产品选项阶梯价格表productOptionPriceSchedule
+产品阶梯价格表productPriceSchedule
+产品功能阶梯价格表productFeaturePriceSchedule
+产品约束关系optionConstraint
+销售业绩拆分salesPerformanceSplit
+销售机会更新后新增日程临时表scheduleRecord__c
+授权申请authorApply__c
+授权申请明细表authorApplyDetail__c
+合作伙伴cooPartner__c
+竞争对手competitor__c
+鸿合内部公司表companycode__c
+银行代码YHDM__c
+商机阶段文件oppProcessFile
+商机每条数据的阶段流程信息oppProcess
+联系人关系contactRelationShip
+联系人角色contactRole
+用户user
+报销单expenseaccount
+费用expense
+订单order
+订单明细orderProduct
+商机明细opportunityProduct
+合同contract
+销售线索lead
+产品product
+销售机会opportunity
+联系人contact
+客户account

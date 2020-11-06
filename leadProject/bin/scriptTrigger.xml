@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+		<config>
+			<trigger>
+				<object>lead</object>
+				<operate>add</operate>
+				<position>after</position>
+				<order>1</order>
+				<class>other.hht.lead.LeadBusinessTrigger</class>
+			</trigger>
+			<trigger>
+				<object>lead</object>
+				<operate>update</operate>
+				<position>after</position>
+				<order>2</order>
+				<class>other.hht.lead.LeadBusinessTrigger</class>
+			</trigger>
+		</config>
+</configs>

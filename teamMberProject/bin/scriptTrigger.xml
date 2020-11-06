@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+		<config>
+			<trigger>
+				<object>authorApply__c</object>
+				<operate>update</operate>
+				<position>after</position>
+				<order>1</order>
+				<class>other.hht.member.AuthorUpdateAfterTrigger</class>
+			</trigger>
+		</config>
+</configs>

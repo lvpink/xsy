@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/My_Project_file/workspaces/xiaoshouyi02/scheduleJob2/lib/usersdk-core.jar"/>
+	<classpathentry kind="lib" path="lib/ingageSDK.jar"/>
+	<classpathentry kind="lib" path="lib/model.jar"/>
+	<classpathentry kind="lib" path="lib/usersdk-core.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/My_Project_file/workspaces/xiaoshouyi02/scheduleJob2/lib/model.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
