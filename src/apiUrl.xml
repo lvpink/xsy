@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+		<config>
+			<!-- 物流单查询 -->
+			<api>
+				<class>other.logistics.manager.LogisticManagerWServiceQ</class>
+				<url>/queryManagerLogisticInfo</url>
+			</api>
+			<!-- 确认收货-->
+			<api>
+				<class>other.logistics.manager.LogisticConfirmWService</class>
+				<url>/confirmGoods</url>
+			</api>
+			<!-- 导入物流详情 -->
+			<api>
+				<class>other.logistics.manager.ImportLogisticWService</class>
+				<url>/importLogisticInfo</url>
+			</api>
+		</config>
+</configs>
