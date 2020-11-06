@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+		<config>
+			<!-- 物流单查询 -->
+			<api>
+				<class>other.hht.logistics.LogisticWServiceQ</class>
+				<url>/queryLogisticInfo</url>
+			</api>
+			<!-- 订单追踪 -->
+			<api>
+				<class>other.hht.logistics.LogisticWServiceG</class>
+				<url>/queryOrderInfo</url>
+			</api>
+			<!-- 货品清单 -->
+			<api>
+				<class>other.hht.logistics.LogisticWServiceL</class>
+				<url>/queryProductInfo</url>
+			</api>
+		</config>
+</configs>
